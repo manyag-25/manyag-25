@@ -30,7 +30,7 @@ Replace placeholders: YOUR_NAME, LINKS, PROJECTS, etc.
 - **Problem:** Robotics prototyping is slow, wiring-heavy, and software setup is painful  
 - **Solution:** Plug modules → detect hardware → generate runnable stacks  
 - **Stack:** ROS2 · Python/C++ · Embedded · Sensor pipelines  
-- Repo: 👉 [YOUR_NOVA_REPO_LINK](https://github.com/manyag-25/nova-delta)
+- Repo: 👉 [https://github.com/manyag-25/nova-delta](https://github.com/manyag-25/nova-delta)
 
 ### ⭐ AegisCycle (Agentic health optimization system)
 - **Goal:** Adaptive guidance via structured signals + iterative planning  
