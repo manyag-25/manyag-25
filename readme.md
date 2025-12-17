@@ -35,11 +35,11 @@ Replace placeholders: YOUR_NAME, LINKS, PROJECTS, etc.
 ### ⭐ AegisCycle (Agentic health optimization system)
 - **Goal:** Adaptive guidance via structured signals + iterative planning  
 - **Focus:** product logic, evaluation loops, reliability  
-- Repo: 👉 [YOUR_AEGISCYCLE_REPO_LINK](https://github.com/manyag-25/aegiscycle)
+- Repo: 👉 [https://github.com/manyag-25/aegiscycle](https://github.com/manyag-25/aegiscycle)
 
 ### ⭐ StreakWars (Gamified habit tracking)
 - **Goal:** Make consistency addictive, verification real  
-- Repo: 👉 [YOUR_STREAKWARS_REPO_LINK](https://github.com/Arnav-Jhajharia/cursor-hackathon)
+- Repo: 👉 [https://github.com/Arnav-Jhajharia/cursor-hackathon](https://github.com/Arnav-Jhajharia/cursor-hackathon)
 
 ---
 
