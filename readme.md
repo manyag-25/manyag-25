@@ -11,7 +11,7 @@ Replace placeholders: YOUR_NAME, LINKS, PROJECTS, etc.
 
 <p align="center">
   <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/manya-gupta-510926243/)">LinkedIn</a> ·
-  <a href="[YOUR_PORTFOLIO_URL](https://gold-emu-09e.notion.site/Manya-201353fc222e80cbba73e83bfd9da237)">Portfolio</a> ·
+  <a href="[https://gold-emu-09e.notion.site/Manya-201353fc222e80cbba73e83bfd9da237]">Portfolio</a> ·
   <a href="mailto:manyagupta05@gmail.com">Email</a> ·
   <a href="[YOUR_X_URL](https://x.com/manyagupta05)">X</a>
 </p>
