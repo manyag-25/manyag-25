@@ -3,7 +3,7 @@ Profile README for: YOUR_USERNAME
 Replace placeholders: YOUR_NAME, LINKS, PROJECTS, etc.
 -->
 
-<h1 align="center">Manya</h1>
+<h1 align="center">Manya Gupta</h1>
 <p align="center">
   Builder in <b>Robotics · Embedded Systems · Applied AI</b><br/>
   I like shipping systems that touch the real world (and occasionally behave).
@@ -16,36 +16,31 @@ Replace placeholders: YOUR_NAME, LINKS, PROJECTS, etc.
   <a href="[YOUR_X_URL](https://x.com/manyagupta05)">X</a>
 </p>
 
----
 
-## What I’m building
-- 🤖 **Nova**: modular robotics cube that auto-detects sensors/actuators + generates ROS2-ready scaffolds  
-- 🛰️ **CanSat / Space systems work**: sensing, mapping, pipelines, and doing math while sleep-deprived  
-- 🧠 **Agentic systems** (practical, not vibes): multi-tool workflows, retrieval, evaluation, shipping
 
----
+Right now I'm leading the robotic arm sub-team for NUS Mars Rover and building CanSat flight software + a real-time ground station. I like hardware debugging, rapid prototyping and working across mechanical, electrical and software boundaries.
 
-## Flagship projects (the ones I want you to click)
-### ⭐ Nova (Robotics platform)
-- **Problem:** Robotics prototyping is slow, wiring-heavy, and software setup is painful  
-- **Solution:** Plug modules → detect hardware → generate runnable stacks  
-- **Stack:** ROS2 · Python/C++ · Embedded · Sensor pipelines  
-- Repo: 👉 [https://github.com/manyag-25/nova-delta](https://github.com/manyag-25/nova-delta)
+## Start here
 
-### ⭐ AegisCycle (Agentic health optimization system)
-- **Goal:** Adaptive guidance via structured signals + iterative planning  
-- **Focus:** product logic, evaluation loops, reliability  
-- Repo: 👉 [https://github.com/manyag-25/aegiscycle](https://github.com/manyag-25/aegiscycle)
+### CanSat flight software + ground station
 
-### ⭐ StreakWars (Gamified habit tracking)
-- **Goal:** Make consistency addictive, verification real  
-- Repo: 👉 [https://github.com/Arnav-Jhajharia/cursor-hackathon](https://github.com/Arnav-Jhajharia/cursor-hackathon)
+UDP telemetry, packet validation, live sensor plots, CSV logging, command handling, replay and simulation/HIL workflows.
 
----
+[View repo](https://github.com/manyag-25/Cansat-2026)
 
-## Tech I play with the most:
-**Robotics/Embedded:** ROS2 · STM32 · Arduino/ESP32 · I2C/SPI/UART · sensors  
-**Software:** Python · Java
+### NUS Mars Rover robotic arm
+
+Leading the robotic arm sub-team for the 2027 rover. Working on a 5-DOF arm and its ROS2 control stack.
+
+[Watch the 2026 demo](https://youtu.be/RMnJwoxsRVg?si=lNY1JTQIxAFRNEr6)
+
+### CubeSat health monitoring
+
+Low-cost CubeSat health-monitoring prototype with real-time fault detection and autonomous recovery. International Top 12 at IEEE MYOSA; presented at IEEE FLEPS 2025.
+
+## Tools
+
+ROS2 · Python · C++ · STM32 · Arduino/ESP32 · Raspberry Pi · I2C/SPI/UART · Sensors
 
 ---
 
