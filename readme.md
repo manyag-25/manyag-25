@@ -30,7 +30,7 @@ UDP telemetry, packet validation, live sensor plots, CSV logging, command handli
 
 ### NUS Mars Rover robotic arm
 
-Leading the robotic arm sub-team for the 2027 rover. Working on a 5-DOF arm and its ROS2 control stack.
+Leading the robotic arm sub-team for the 2027 rover. Working on a 6-DOF arm and its ROS2 control stack.
 
 [Watch the 2026 demo](https://youtu.be/RMnJwoxsRVg?si=lNY1JTQIxAFRNEr6)
 
